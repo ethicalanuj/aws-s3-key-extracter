@@ -10,5 +10,5 @@ pip install requests beautifulsoup4 lxml
 
 2. Run the Script:
 ```
-python script_name.py output_file.txt https://domain1.com https://domain2.com
+python extract-key.py output_file.txt https://domain1.com https://domain2.com
 ```
